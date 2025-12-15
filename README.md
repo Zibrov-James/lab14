@@ -1,4 +1,6 @@
 # laba14_krosp
+![Demo](demo.gif)
+
 
 A new Flutter project.
 
