@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  static const platform = MethodChannel(' `laba14/channel');
+  static const platform = MethodChannel('laba14_krosp/channel');
 
   String nativeMessage = "Waiting for native...";
   File? _image;
